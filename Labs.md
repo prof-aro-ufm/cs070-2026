@@ -1,9 +1,12 @@
 ---
-layout: default
+layout: page
 title: "Labs"
-permalink: /https://prof-aro-ufm.github.io/cs070-2026/labs
+permalink: /labs
 ---
 
 ### Sección Dedicada a los Laboratorios del Curso
 
-[Regresar](./index.html)
+* Lab 1
+* Lab 2
+
+[Regresar](./)
