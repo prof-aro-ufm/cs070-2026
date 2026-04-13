@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Labs"
+layout: page
+title: "Laboratorios"
 permalink: /labs
 ---
 
